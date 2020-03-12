@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/randombird/static/css/main.14342a82.chunk.css",
+    "main.js": "/randombird/static/js/main.0ff31f81.chunk.js",
+    "main.js.map": "/randombird/static/js/main.0ff31f81.chunk.js.map",
+    "runtime-main.js": "/randombird/static/js/runtime-main.83e95e3a.js",
+    "runtime-main.js.map": "/randombird/static/js/runtime-main.83e95e3a.js.map",
+    "static/js/2.11e76a0e.chunk.js": "/randombird/static/js/2.11e76a0e.chunk.js",
+    "static/js/2.11e76a0e.chunk.js.map": "/randombird/static/js/2.11e76a0e.chunk.js.map",
+    "index.html": "/randombird/index.html",
+    "precache-manifest.acf96134b532dd30b0b58645484cf29c.js": "/randombird/precache-manifest.acf96134b532dd30b0b58645484cf29c.js",
+    "service-worker.js": "/randombird/service-worker.js",
+    "static/css/main.14342a82.chunk.css.map": "/randombird/static/css/main.14342a82.chunk.css.map",
+    "static/js/2.11e76a0e.chunk.js.LICENSE.txt": "/randombird/static/js/2.11e76a0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e95e3a.js",
+    "static/js/2.11e76a0e.chunk.js",
+    "static/css/main.14342a82.chunk.css",
+    "static/js/main.0ff31f81.chunk.js"
+  ]
+}
