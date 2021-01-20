@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/randombird/static/css/main.7fc52f0f.chunk.css",
-    "main.js": "/randombird/static/js/main.2259c085.chunk.js",
-    "main.js.map": "/randombird/static/js/main.2259c085.chunk.js.map",
+    "main.js": "/randombird/static/js/main.97ad36d8.chunk.js",
+    "main.js.map": "/randombird/static/js/main.97ad36d8.chunk.js.map",
     "runtime-main.js": "/randombird/static/js/runtime-main.83e95e3a.js",
     "runtime-main.js.map": "/randombird/static/js/runtime-main.83e95e3a.js.map",
     "static/js/2.11e76a0e.chunk.js": "/randombird/static/js/2.11e76a0e.chunk.js",
     "static/js/2.11e76a0e.chunk.js.map": "/randombird/static/js/2.11e76a0e.chunk.js.map",
     "index.html": "/randombird/index.html",
-    "precache-manifest.b57049424cc3f475d3ea8ec54e90297e.js": "/randombird/precache-manifest.b57049424cc3f475d3ea8ec54e90297e.js",
+    "precache-manifest.8486ec7fe0ee15727cd0704ff27d5ffe.js": "/randombird/precache-manifest.8486ec7fe0ee15727cd0704ff27d5ffe.js",
     "service-worker.js": "/randombird/service-worker.js",
     "static/css/main.7fc52f0f.chunk.css.map": "/randombird/static/css/main.7fc52f0f.chunk.css.map",
     "static/js/2.11e76a0e.chunk.js.LICENSE.txt": "/randombird/static/js/2.11e76a0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.83e95e3a.js",
     "static/js/2.11e76a0e.chunk.js",
     "static/css/main.7fc52f0f.chunk.css",
-    "static/js/main.2259c085.chunk.js"
+    "static/js/main.97ad36d8.chunk.js"
   ]
 }
